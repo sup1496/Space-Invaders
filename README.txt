@@ -1,10 +1,17 @@
+Reinforcement Learning for Game Playing
+
+The project aim is to train the agent to play the space invaders game. This is done by developing an algorithm in which the agent learns a policy that instructs the
+agent to take the best actions under different states in order to maximize the rewards.
+
 Softwares/Packages used:
+
 1)Python 3
 2)OpenAI Gym - Space Invaders Environment
 3)Keras Library
 4)IPython Library
 
 Steps to compile and run the code:
+
 1)The program file is in the format .ipynb
 2)Open the downloaded file in Google Colab
 3)Execute all the sections of code.
