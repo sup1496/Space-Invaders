@@ -1,4 +1,4 @@
-Reinforcement Learning for Game Playing
+# Reinforcement Learning for Game Playing
 
 The project aim is to train the agent to play the space invaders game. This is done by developing an algorithm in which the agent learns a policy that instructs the
 agent to take the best actions under different states in order to maximize the rewards.
